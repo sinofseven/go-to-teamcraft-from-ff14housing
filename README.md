@@ -2,7 +2,7 @@
 
 FF14ハウジングのアイテムビューの画面に[Teamcraft](https://ffxivteamcraft.com/)へのリンクを追加します。
 
-![sample.png](images/sample.png)
+![sample.png](sample.png)
 
 (メテオマークの右のTeamcraftのアイコンをクリックすると別のタブでチームクラフトのページに飛びます)
 
