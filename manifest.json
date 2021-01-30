@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "go-to-teamcraft-from-ff14housing",
+  "version": "0.1.0",
+  "permissions": [
+    "https://ff14housing.com/itemview.php*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://ff14housing.com/itemview.php*"
+      ],
+      "js": ["index.js"]
+    }
+  ],
+  "icons": {
+    "256": "icon_256.png"
+  }
+}
