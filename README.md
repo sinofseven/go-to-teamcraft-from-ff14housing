@@ -4,7 +4,7 @@ FF14ハウジングのアイテムビューの画面に[Teamcraft](https://ffxiv
 
 ![sample.png](sample.png)
 
-(メテオマークの右のTeamcraftのアイコンをクリックすると別のタブでチームクラフトのページに飛びます)
+(メテオマークの右のTeamcraftのアイコンをクリックすると別のタブでTeamcraftの検索ページに飛びます)
 
 ## 連絡先
 こちらのリポジトリのIssueにてお願いします。
