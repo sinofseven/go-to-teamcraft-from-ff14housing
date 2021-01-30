@@ -5,6 +5,7 @@ build:
 		index.js \
 		manifest.json \
 		icon_256.png \
+		icon_128.png \
 		README.md \
 		LICENSE \
 		CREDITS
