@@ -1,6 +1,8 @@
 # GoTo Teamcraft From FF14Housing
 
-FF14ハウジングのアイテムビューの画面に[Teamcraft](https://ffxivteamcraft.com/)へのリンクを追加します。
+FF14ハウジングのアイテムビューの画面に[Teamcraftの検索画面](https://ffxivteamcraft.com)へのリンクを追加するブラウザ拡張機能です。
+
+- [Firefox](https://addons.mozilla.org/ja/firefox/addon/gototeamcraftfromff14housing/)
 
 ![sample.png](sample.png)
 
